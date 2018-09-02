@@ -34,3 +34,4 @@ c:\Repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.Vi
 c:\Repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.dll
 c:\Repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.pdb
 c:\Repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.csproj.CopyComplete
+C:\Repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Todo\Index.g.cshtml.cs
